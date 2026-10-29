@@ -3,9 +3,16 @@
 An agent skill for building iOS and iPadOS apps in SwiftUI that feel fully native: they follow Apple's Human
 Interface Guidelines, adopt Liquid Glass, stay fast, and keep working at every Dynamic Type size.
 
-It comes from building [YapsGG Agent](https://github.com/yapsgg), a SwiftUI chat app for iOS 26 and later, against
-the HIG and the Liquid Glass guidance. The rules are the ones that held up in practice, each with the reason
-behind it.
+It's the exact skill used to build two shipping iPhone apps:
+
+- **[YapsGG Agent](https://github.com/yapsgg)** (a Grok Bot alternative on steroids: a fleet of named AI agents,
+  each with its own cloud computer, that browse, sign in to tools, @mention each other, and finish tasks while
+  you're away), a SwiftUI chat app for iOS 26 and later.
+- **[Slay Camera](https://slaycamera.com)**, an iPhone camera app with 14 composition guides, AI subject tracking,
+  and shot reports.
+
+Both were built against the HIG and the Liquid Glass guidance. The rules are the ones that held up in practice,
+each with the reason behind it.
 
 ## What's inside
 
