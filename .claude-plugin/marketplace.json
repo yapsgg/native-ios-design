@@ -1,0 +1,11 @@
+{
+  "name": "native-ios-design",
+  "owner": { "name": "YapsGG" },
+  "plugins": [
+    {
+      "name": "native-ios-design",
+      "source": "./",
+      "description": "Build SwiftUI apps that feel fully native: Apple's Human Interface Guidelines, Liquid Glass, Dynamic Type that holds up at every size, and smooth performance."
+    }
+  ]
+}
